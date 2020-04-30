@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin30">30dp</dimen>
+    <dimen name="margin20">20dp</dimen>
+    <dimen name="layout120">120dp</dimen>
+    <dimen name="layout200">200dp</dimen>
+    <dimen name="layout_250">250dp</dimen>
+    <dimen name="layout_270">270dp</dimen>
+</resources>

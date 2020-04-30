@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">News With Trust</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello Home fragment</string>
+    <string name="email">danu.suhendra@gmail.com</string>
+    <string name="address">Subang, Jawa Barat</string>
+    <string name="number_phone">0822-3333-8880</string>
+    <string name="intro1">Portal berita yang menyajikan berita terkini dan terpercaya.</string>
+    <string name="title1">Selamat Datang di \nNews With Trust</string>
+    <string name="title2">Baca Berita Kapanpun di \nDalam Gengaman</string>
+    <string name="intro2">Membaca berita dimanapun dan kapanpun dengan ponselmu. Mudah, fleksibel, terpercaya, dan terupdate.</string>
+    <string name="intro3">Mari mulai jelajah berita terkini dan terpercaya dalam genggamam.</string>
+    <string name="title3">Mari Mulai Membaca Berita</string>
+</resources>
